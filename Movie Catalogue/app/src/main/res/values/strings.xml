@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="search_film">Cari Film Apa?</string>
+</resources>
