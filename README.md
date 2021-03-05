@@ -9,6 +9,10 @@ https://rivaldi48.blogspot.com/2020/08/Tutorial-Membuat-Aplikasi-Android-Movie-d
 
 ****If you use the Source Code, please make sure to credit and backlink to [Azhar Rivaldi](https://rivaldi48.blogspot.com/)***
 
+## 🗂 Click For Support Me :
+<a href="https://sociabuzz.com/azharrvldi_/donate"> 
+<img src="https://github.com/AzharRivaldi/AzharRivaldi/blob/master/Support%20Here.png" width="200" height="200"></a>
+
 ## 📄 License
 
 ```
